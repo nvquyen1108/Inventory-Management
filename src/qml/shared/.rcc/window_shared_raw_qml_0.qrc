@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/qt/qml/shared/">
+    <file alias="Button.qml">C:/Qt/Examples/Qt-6.6.0/quick/shared/Button.qml</file>
+    <file alias="CheckBox.qml">C:/Qt/Examples/Qt-6.6.0/quick/shared/CheckBox.qml</file>
+    <file alias="FlickrRssModel.qml">C:/Qt/Examples/Qt-6.6.0/quick/shared/FlickrRssModel.qml</file>
+    <file alias="Label.qml">C:/Qt/Examples/Qt-6.6.0/quick/shared/Label.qml</file>
+    <file alias="LauncherList.qml">C:/Qt/Examples/Qt-6.6.0/quick/shared/LauncherList.qml</file>
+    <file alias="SimpleLauncherDelegate.qml">C:/Qt/Examples/Qt-6.6.0/quick/shared/SimpleLauncherDelegate.qml</file>
+    <file alias="Slider.qml">C:/Qt/Examples/Qt-6.6.0/quick/shared/Slider.qml</file>
+    <file alias="TabSet.qml">C:/Qt/Examples/Qt-6.6.0/quick/shared/TabSet.qml</file>
+    <file alias="TextField.qml">C:/Qt/Examples/Qt-6.6.0/quick/shared/TextField.qml</file>
+    <file alias="Images.qml">C:/Qt/Examples/Qt-6.6.0/quick/shared/Images.qml</file>
+    <file alias="images/back.png">C:/Qt/Examples/Qt-6.6.0/quick/shared/images/back.png</file>
+    <file alias="images/checkmark.png">C:/Qt/Examples/Qt-6.6.0/quick/shared/images/checkmark.png</file>
+    <file alias="images/next.png">C:/Qt/Examples/Qt-6.6.0/quick/shared/images/next.png</file>
+    <file alias="images/qt-logo.png">C:/Qt/Examples/Qt-6.6.0/quick/shared/images/qt-logo.png</file>
+    <file alias="images/slider_handle.png">C:/Qt/Examples/Qt-6.6.0/quick/shared/images/slider_handle.png</file>
+    <file alias="images/tab.png">C:/Qt/Examples/Qt-6.6.0/quick/shared/images/tab.png</file>
+  </qresource>
+</RCC>
+

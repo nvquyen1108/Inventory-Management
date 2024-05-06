@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "sharedPlugin",
+            "object": true,
+            "qualifiedClassName": "sharedPlugin",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QQmlEngineExtensionPlugin"
+                }
+            ]
+        }
+    ],
+    "inputFile": "window_shared_sharedPlugin.cpp",
+    "outputRevision": 68
+}

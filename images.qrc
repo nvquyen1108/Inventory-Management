@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icons.rc</file>
+        <file>images/R.ico</file>
+        <file>images/youtube-64.ico</file>
+    </qresource>
+</RCC>
