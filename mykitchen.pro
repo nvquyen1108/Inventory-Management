@@ -37,11 +37,7 @@ SOURCES += \
 #qml resource main file
 resources.files += \
         main.qml \
-        Splash.qml \
-        qtquickcontrols2.conf
-
-resources.files += \
-        src/migrations/001_books.sql
+        Splash.qml
 
 #qml resource files
 resources.files += AppSettings.qml\
